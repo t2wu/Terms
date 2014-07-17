@@ -3,10 +3,11 @@
 ?:abstract interface
 HTTP header:HTTP標頭(?)
 HTTP request:HTTP請求
+HTTP reply:應答
 Internet media type:網際網路媒體型式
 Stream:串流
 Wrapper:?
-alert box:警報盒
+alert box:警告視窗
 anonymous function:匿名函式
 assignment:配值
 asynchronous:非同步
@@ -14,11 +15,14 @@ best practice:最佳實踐
 bind:繫結
 block:結構塊
 buffer:緩衝區
+caller:??
 callback:回呼函式
 class:類別
 client side:用戶端
+cluster:叢集
 comment:註解
-concatenation:串街
+concatenation:串接
+concurrency：並行性
 conditional expressions, conditionals:條件運算式
 constructor:建構函式
 cwd:目前路徑(?)
@@ -26,14 +30,16 @@ dangling else:懸置else
 data types:資料型別
 dot notation:句點表示法
 element:元素
+encapsulation:封裝
 enumerable:?
 evaluate:解析
 event loop:事件迴圈
 exception:例外
-explicit （顯式):標示型
+explicit:顯式、顯式地、標示型
 export(v) (on module):?
 expose(v) (on module):?
 expression:表示式
+form (html form)：表單
 function declaration statement:函式宣告陳述
 function expression:函式表示式
 global module:全域模組
@@ -41,15 +47,18 @@ help:協助
 hoisting:?
 if clause:if子句
 implicit （隱式）:默認型
+import/require：引入?
 index, indexing:索引
 instance:實體
 key-value pairs:?
 keyword:關鍵字
+library：函式庫
 license:授權
 listen:監聽(?大陸用語?)
 listener callback:監聽回呼函式
 literal // http://meebox.blogspot.tw/2012/07/constant-literal.html:字面值(?)
 load(on module):載入
+load balancer:負載平衡器
 local and global (modules):本機模式跟全域模式
 module:模組
 named function:命名函式
@@ -57,9 +66,11 @@ namespace:命名空間
 nested structure:巢狀結構
 non-blocking IO:非阻攔IO
 operator:運算子
+overloading:多載
 package:套件
 port:通訊埠
 process:行程
+project:專案
 prompt (as in REPL prompt):??
 property (as in string.length):
 prototype chain:原型鏈
@@ -70,7 +81,9 @@ repositories:?
 require (as a VERB):
 response:?
 return value:回傳值
+scalability:擴充性
 scope:名域，作用範圍?
+session:?
 short-circuiting:捷徑計算
 stack:堆疊
 statement:陳述
@@ -82,3 +95,4 @@ thread:執行緒
 throw exception:發出例外
 top-level directory:頂層目錄(?這是那本大陸書的翻譯)
 write buffer:寫入緩衝區
+validation:?
