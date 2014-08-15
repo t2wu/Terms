@@ -1,12 +1,4 @@
-:flowing-mode
-:non-flowing mode
-?:abstract interface
-HTTP header:HTTP標頭(?)
-HTTP request:HTTP請求
-HTTP reply:應答
-Internet media type:網際網路媒體型式
-Stream:串流
-Wrapper:?
+abstract interface:?
 abstraction:?
 aggregation (mongodb):聚合
 alert box:警告視窗
@@ -47,6 +39,7 @@ explicit:顯式、顯式地、標示型
 export(v) (on module):?
 expose(v) (on module):?
 expression:表示式
+flowing-mode:?
 form (html form):表單
 framework:框架
 function declaration statement:函式宣告陳述
@@ -56,12 +49,16 @@ handler:處理程序
 help:協助
 hierarchical data:多層次資料?
 hoisting:?
+HTTP header:HTTP標頭(?)
+HTTP request:HTTP請求
+HTTP reply:應答
 if clause:if子句
 implicit （隱式）:默認型
 import/require：引入?
 index, indexing:索引
 instance:實體
 interface (as in abstraction):??
+Internet media type:網際網路媒體型式
 key-value pairs:?
 keyword:關鍵字
 lazy initialization:惰性初始
@@ -80,6 +77,7 @@ named function:命名函式
 namespace:命名空間
 nested structure:巢狀結構
 non-blocking IO:非阻攔IO
+non-flowing mode:?
 normalization (database):正規化?
 operator:運算子
 object-relational mapping:物件關聯對映
@@ -116,6 +114,7 @@ stack:堆疊
 statement:陳述
 static (file):?
 status code:?
+stream:串流
 strict comparison:嚴謹比較
 subclass:子類別
 tab (UI):活頁標籤
@@ -125,5 +124,6 @@ thread:執行緒
 throw exception:發出例外
 top-level directory:頂層目錄(?這是那本大陸書的翻譯)
 unique:唯一性
+wrapper:?
 write buffer:寫入緩衝區
 validation:確認
