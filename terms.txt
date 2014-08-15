@@ -7,6 +7,8 @@ HTTP reply:應答
 Internet media type:網際網路媒體型式
 Stream:串流
 Wrapper:?
+abstraction:?
+aggregation (mongodb):聚合
 alert box:警告視窗
 anonymous function:匿名函式
 assignment:配值
@@ -14,6 +16,7 @@ asynchronous:非同步
 best practice:最佳實踐
 bind:繫結
 block:結構塊
+builder:?
 buffer:緩衝區
 caller:??
 callback:回呼函式
@@ -22,15 +25,20 @@ client side:用戶端
 cluster:叢集
 comment:註解
 concatenation:串接
-concurrency：並行性
+concurrency:並行性
 conditional expressions, conditionals:條件運算式
 constructor:建構函式
+content-type:內容類型
+context (execution context):?
+control flow:控制流程
 cwd:目前路徑(?)
 dangling else:懸置else
 data types:資料型別
 dot notation:句點表示法
 element:元素
 encapsulation:封裝
+encoding：編碼
+endpoint (API endpoint):接口
 enumerable:?
 evaluate:解析
 event loop:事件迴圈
@@ -39,35 +47,46 @@ explicit:顯式、顯式地、標示型
 export(v) (on module):?
 expose(v) (on module):?
 expression:表示式
-form (html form)：表單
+form (html form):表單
+framework:框架
 function declaration statement:函式宣告陳述
 function expression:函式表示式
 global module:全域模組
+handler:處理程序
 help:協助
+hierarchical data:多層次資料?
 hoisting:?
 if clause:if子句
 implicit （隱式）:默認型
 import/require：引入?
 index, indexing:索引
 instance:實體
+interface (as in abstraction):??
 key-value pairs:?
 keyword:關鍵字
-library：函式庫
+lazy initialization:惰性初始
+library:函式庫
 license:授權
 listen:監聽(?大陸用語?)
 listener callback:監聽回呼函式
 literal // http://meebox.blogspot.tw/2012/07/constant-literal.html:字面值(?)
 load(on module):載入
 load balancer:負載平衡器
+logger:
 local and global (modules):本機模式跟全域模式
+middleware:中介軟體
 module:模組
 named function:命名函式
 namespace:命名空間
 nested structure:巢狀結構
 non-blocking IO:非阻攔IO
+normalization (database):正規化?
 operator:運算子
+object-relational mapping:物件關聯對映
 overloading:多載
 package:套件
+payload:載件(自己翻譯)
+point of interest (POI):地標
 port:通訊埠
 process:行程
 project:專案
@@ -75,24 +94,36 @@ prompt (as in REPL prompt):??
 property (as in string.length):
 prototype chain:原型鏈
 prototypical inheritance:原型繼承模式
+query string (HTTP URL GET query):?
 read-evaluate-print loop (REPL):「讀取-求值-輸出」循環
 reference (as a verb):參照
+relational database:關聯式資料庫
 repositories:?
 require (as a VERB):
+request handler:請求處理函式?
 response:?
 return value:回傳值
+rollback:?
 scalability:擴充性
+schema:?
 scope:名域，作用範圍?
 session:?
+shallow copy: 淺複製
+shell:介面程式
 short-circuiting:捷徑計算
+sql injection:資料隱碼攻擊
 stack:堆疊
 statement:陳述
+static (file):?
 status code:?
 strict comparison:嚴謹比較
 subclass:子類別
+tab (UI):活頁標籤
 superclass:父類別
+tag(HTML tag):標籤
 thread:執行緒
 throw exception:發出例外
 top-level directory:頂層目錄(?這是那本大陸書的翻譯)
+unique:唯一性
 write buffer:寫入緩衝區
-validation:?
+validation:確認
