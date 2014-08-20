@@ -3,8 +3,10 @@ abstraction:?
 aggregation (mongodb):聚合
 alert box:警告視窗
 anonymous function:匿名函式
+arc:?
 assignment:配值
 asynchronous:非同步
+attribute:?
 best practice:最佳實踐
 bind:繫結
 block:結構塊
@@ -45,6 +47,7 @@ framework:框架
 function declaration statement:函式宣告陳述
 function expression:函式表示式
 global module:全域模組
+graph database:圖形資料庫
 handler:處理程序
 help:協助
 hierarchical data:多層次資料?
@@ -76,12 +79,15 @@ module:模組
 named function:命名函式
 namespace:命名空間
 nested structure:巢狀結構
+node:節點
 non-blocking IO:非阻攔IO
 non-flowing mode:?
 normalization (database):正規化?
-operator:運算子
 object-relational mapping:物件關聯對映
+opaque (as in opaque type, used in this case in db):
+operator:運算子
 overloading:多載
+out of bound (in indexing):出界
 package:套件
 payload:載件(自己翻譯)
 point of interest (POI):地標
@@ -89,7 +95,7 @@ port:通訊埠
 process:行程
 project:專案
 prompt (as in REPL prompt):??
-property (as in string.length):
+property (as in string.length):?
 prototype chain:原型鏈
 prototypical inheritance:原型繼承模式
 query string (HTTP URL GET query):?
